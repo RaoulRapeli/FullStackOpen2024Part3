@@ -1,1 +1,1 @@
-DELETE http://localhost:3001/api/persons/3
+DELETE https://fullstackopen2024part3-small-shape-4743.fly.dev/api/persons/3
